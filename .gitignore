@@ -1,0 +1,15 @@
+
+restaurants_predictions_with_text.csv
+nonrestaurants_predictions_with_text.csv
+
+business_sample.json
+business_no_stars_review.json
+
+__pycache__/
+
+
+nonrestaurants_serialized_random_forest_text.pickle
+nonrestaurants_serialized_linear_text.pickle
+restaurants_serialized_random_forest_text.pickle
+restaurants_serialized_linear_text.pickle
+

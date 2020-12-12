@@ -28,7 +28,7 @@
   * [Step 11: Make dataframe from the no-stars file](#step-11-make-dataframe-from-the-no-stars-file)
   * [Step 12: Make predictions](#step-12-make-predictions)
   * [Step 13: Run the programs](#step-13-run-the-programs)
-- See also: report.pdf
+- [See also: report.pdf](#see-also-reportpdf)
   
     
 ## Introduction
@@ -895,5 +895,5 @@ df1.to_csv('nonrestaurants_predictions_with_text.csv')
 ### Step 13: Run the programs
 Once you've read through and modified the code as outlined above, you are ready to run the two runme files: [runme_restaurants.py](https://github.com/cbouts/ECON498_Final/blob/master/runme_restaurants.py) and [runme_nonrestaurants.py](https://github.com/cbouts/ECON498_Final/blob/main/runme_nonrestaurants.py). This can be done simultaneously in two terminal windows. 
 
-
-  
+### See also report.pdf
+I argue that my random forest models are good in [report.pdf](https://github.com/cbouts/ECON498_Final/blob/master/report.pdf)

@@ -32,7 +32,7 @@
   
     
 ## Introduction
-This project trains a Random Forest machine to predict review scores for restaurant and non-restaurant businesses on the basis of information found on these businesses' [Yelp](yelp.com) pages using Random Forest. It then uses this machine to predict review scores for businesses not found on the training .json file.
+This project trains two random forest machines to predict review scores for restaurant and non-restaurant businesses on the basis of information found on these businesses' [Yelp](yelp.com) pages. It then uses this machine to predict review scores for businesses not found on the training .json file.
 
 ## Technologies
 This project was made on Python 3.7, so that or a newer version may be required to run it. 
